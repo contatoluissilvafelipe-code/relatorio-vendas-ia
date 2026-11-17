@@ -1,0 +1,31 @@
+data,produto,regiao,quantidade,valor_unitario
+2026-08-01,Bucha SAE 1045,Centro-Oeste,37,38.0
+2026-08-04,Bucha SAE 1045,Sul,15,38.0
+2026-08-05,Flange inox 304,Sul,42,112.0
+2026-08-08,Bucha SAE 1045,Centro-Oeste,22,38.0
+2026-08-09,Engrenagem Z20,Sul,38,95.0
+2026-08-18,Eixo retificado,Sul,58,186.0
+2026-08-21,Flange inox 304,Centro-Oeste,37,112.0
+2026-08-23,Eixo retificado,Sudeste,19,186.0
+2026-08-24,Flange inox 304,Sudeste,16,112.0
+2026-08-27,Bucha SAE 1045,Sudeste,16,38.0
+2026-09-02,Eixo retificado,Centro-Oeste,42,186.0
+2026-09-03,Eixo retificado,Centro-Oeste,19,186.0
+2026-09-04,Bucha SAE 1045,Sul,52,38.0
+2026-09-09,Flange inox 304,Sudeste,19,112.0
+2026-09-12,Flange inox 304,Sul,42,112.0
+2026-09-13,Eixo retificado,Sudeste,42,186.0
+2026-09-15,Eixo retificado,Sul,28,186.0
+2026-09-18,Eixo retificado,Sul,44,186.0
+2026-09-20,Eixo retificado,Centro-Oeste,45,186.0
+2026-09-28,Bucha SAE 1045,Centro-Oeste,50,38.0
+2026-10-06,Eixo retificado,Sul,17,186.0
+2026-10-08,Bucha SAE 1045,Sudeste,35,38.0
+2026-10-09,Eixo retificado,Sul,17,186.0
+2026-10-13,Eixo retificado,Sul,37,186.0
+2026-10-15,Engrenagem Z20,Sudeste,51,95.0
+2026-10-18,Engrenagem Z20,Sul,26,95.0
+2026-10-24,Flange inox 304,Sul,89,112.0
+2026-10-25,Eixo retificado,Centro-Oeste,34,186.0
+2026-10-27,Engrenagem Z20,Centro-Oeste,35,95.0
+2026-10-28,Eixo retificado,Sul,13,186.0
